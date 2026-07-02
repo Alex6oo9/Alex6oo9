@@ -3,10 +3,6 @@
 I build production systems and ship AI-powered applications end to end —
 from database architecture to LLM-integrated features.
 
-🔭 Currently building **[AI Resume & Cover Letter Builder](https://proresumeai.app)** —
-   an AI platform generating job-tailored resumes and cover letters, combining
-   LLM workflows with a full production frontend + backend.
-
 🚀 Recently shipped a **[RAG-based AI portfolio assistant](https://alexbuild.me)** that
    answers recruiter questions in real time and logs unanswered ones back into
    its own knowledge base to keep improving.
@@ -17,11 +13,15 @@ from database architecture to LLM-integrated features.
 🌱 Freelanced on **[Thi Thi](https://thithi.app)**, a live food e-commerce app,
    building authentication flows and the customer-facing frontend.
 
+🔭 Currently building **[AI Resume & Cover Letter Builder](https://proresumeai.app)** —
+   an AI platform generating job-tailored resumes and cover letters, combining
+   LLM workflows with a full production frontend + backend.
+
 ---
 
 **Stack I work in:**
 
-`JavaScript` `TypeScript` `Python` · `React` `Tailwind CSS` · `Node.js` `Express` ·
+`JavaScript` `TypeScript`  · `React` `Tailwind CSS` · `Node.js` `Express` ·
 `MongoDB` `PostgreSQL` `Redis` · `LangChain` `OpenAI API` `RAG` `Agentic AI` · `Docker`
 
 📫 Reach me: minthwinkhant93@gmail.com · [alexbuild.me](https://alexbuild.me) · Bangkok, Thailand
