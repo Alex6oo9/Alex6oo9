@@ -7,6 +7,8 @@ from database architecture to LLM-integrated features.
    answers recruiter questions in real time and logs unanswered ones back into
    its own knowledge base to keep improving.
 
+   my portfolio github - https://github.com/min6o9/Rthur_portfolio
+
 💼 Backend Developer Intern at BKK Kaung Pyae Car Company — architected the
    backend and database structure for a live car showroom management platform.
 
