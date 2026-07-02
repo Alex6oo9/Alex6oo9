@@ -28,4 +28,6 @@ from database architecture to LLM-integrated features.
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex6oo9&show_icons=true&theme=default&hide_border=true)
+
 ### 📌 Pinned projects below ⬇️
