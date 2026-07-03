@@ -19,6 +19,8 @@ from database architecture to LLM-integrated features.
 
 ---
 
+🔗 Also active on another GitHub account: [min6o9](https://github.com/min6o9).
+
 **Stack I work in:**
 
 `JavaScript` `TypeScript`  · `React` `Tailwind CSS` · `Node.js` `Express` ·
