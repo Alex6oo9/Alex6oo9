@@ -26,6 +26,10 @@ from database architecture to LLM-integrated features.
 `JavaScript` `TypeScript`  · `React` `Tailwind CSS` · `Node.js` `Express` ·
 `MongoDB` `PostgreSQL` `Redis` · `LangChain` `OpenAI API` `RAG` `Agentic AI` · `Docker`
 
+**Ai tools**
+
+`Claude Code` `Claude Design` 
+
 📫 Reach me: minthwinkhant93@gmail.com · [alexbuild.me](https://alexbuild.me) · Bangkok, Thailand
 
 ---
